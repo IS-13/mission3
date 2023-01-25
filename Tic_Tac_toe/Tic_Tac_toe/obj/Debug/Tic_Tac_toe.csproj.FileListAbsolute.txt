@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\obj\Debug\Tic_Tac_toe.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\obj\Debug\Tic_Tac_toe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\bin\Debug\Tic_Tac_toe.exe.config
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\bin\Debug\Tic_Tac_toe.exe
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\bin\Debug\Tic_Tac_toe.pdb
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\obj\Debug\Tic_Tac_toe.exe
+\\Mac\Home\Desktop\IS_Core\IS_413\mission3\Tic_Tac_toe\Tic_Tac_toe\obj\Debug\Tic_Tac_toe.pdb
