@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.jpeg">
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link href="~/wwwroot/css/stylesheet.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <nav>
+        <a asp-controller="Blah" asp-action="Index">Home</a>
+        <a asp-controller="Blah" asp-action="Calculator">Calc</a>
+    </nav>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer>this is the footer</footer>
+
+    <script src="~/lib/jquery/jquery-3.6.3.min.js"></script>
+    <script src="~/js/javascript.js"></script>
+
+</body>
+</html>
