@@ -9,15 +9,15 @@ namespace mission5.Models
     public class CalcModel
     {
         [Range(1, 100)]
-        public string Assignments { get; set; }
+        public float Assignments { get; set; }
         [Range(1, 100)]
-        public string Quizzes { get; set; }
+        public float Quizzes { get; set; }
         [Range(1, 100)]
-        public string GP { get; set; }
+        public float GP { get; set; }
         [Range(1, 100)]
-        public string Intex { get; set; }
+        public float Intex { get; set; }
         [Range(1, 100)]
-        public string Exams { get; set; }
+        public float Exams { get; set; }
 
 
     }
